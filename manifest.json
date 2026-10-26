@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Hide Spec Files on GitHub PRs",
+  "name": "Zen Review",
   "version": "0.1.0",
-  "description": "Collapses or hides test and spec files on GitHub pull request diffs.",
+  "description": "Collapses or hides test files and other noise on GitHub pull request diffs.",
   "permissions": ["storage"],
   "content_scripts": [
     {

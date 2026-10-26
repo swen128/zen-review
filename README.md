@@ -1,6 +1,6 @@
-# Hide Spec Files on GitHub PRs
+# Zen Review
 
-A Chrome extension that collapses or hides test and spec files on GitHub pull request diffs, so review starts with the implementation.
+A Chrome extension that collapses or hides test files and other noise on GitHub pull request diffs, so review starts with the implementation.
 
 ## Install
 
